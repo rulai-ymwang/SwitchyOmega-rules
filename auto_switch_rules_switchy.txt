@@ -6,5 +6,6 @@
 *.github.com +boom_lol
 *.githubusercontent.com +boom_lol
 *.githubassets.com +boom_lol
+*.dribbble.com +boom_lol
 
 * +direct
