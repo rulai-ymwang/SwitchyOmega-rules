@@ -11,5 +11,6 @@
 *.dribbble.com +boom_lol
 
 *.facebook.com +boom_lol
+*.fbcdn.net +boom_lol
 
 * +direct
