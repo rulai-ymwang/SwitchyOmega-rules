@@ -27,5 +27,7 @@ vimeo.com +boom_lol
 
 *.jetbrains.com +boom_lol
 
+*.twilio.com +boom_lol
+
 
 * +direct
