@@ -13,4 +13,9 @@
 *.facebook.com +boom_lol
 *.fbcdn.net +boom_lol
 
+*.zendesk.com +boom_lol
+*.zdassets.com +boom_lol
+
+*vimeo.com +boom_lol
+
 * +direct
