@@ -22,6 +22,6 @@ vimeo.com +boom_lol
 
 *.atlassian.net +boom_lol
 *.alt-paas.net +boom_lol
-*.pndns.com +boom_lol
+*.pndsn.com +boom_lol
 
 * +direct
