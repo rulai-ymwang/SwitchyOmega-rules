@@ -18,6 +18,6 @@
 
 vimeo.com +boom_lol
 *.vimeo.com +boom_lol
-*vimeocdn.com +boom_lol
+*.vimeocdn.com +boom_lol
 
 * +direct
