@@ -2,6 +2,7 @@
 @with result
 
 *.google.com +boom_lol
+*.googleapis.com +boom_lol
 *.youtube.com +boom_lol
 
 *.github.com +boom_lol
@@ -25,5 +26,6 @@ vimeo.com +boom_lol
 *.pndsn.com +boom_lol
 
 *.jetbrains.com +boom_lol
+
 
 * +direct
