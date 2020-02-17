@@ -24,4 +24,6 @@ vimeo.com +boom_lol
 *.alt-paas.net +boom_lol
 *.pndsn.com +boom_lol
 
+*.jetbrains.com +boom_lol
+
 * +direct
