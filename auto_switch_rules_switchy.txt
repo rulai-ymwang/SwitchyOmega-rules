@@ -29,5 +29,7 @@ vimeo.com +boom_lol
 
 *.twilio.com +boom_lol
 
+*.jsfiddle.net +boom_lol
+
 
 * +direct
