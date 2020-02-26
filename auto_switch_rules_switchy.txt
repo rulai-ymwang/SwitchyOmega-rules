@@ -8,6 +8,7 @@
 *.github.com +boom_lol
 *.githubusercontent.com +boom_lol
 *.githubassets.com +boom_lol
+*.github.io +boom_lol
 
 *.dribbble.com +boom_lol
 
@@ -23,7 +24,6 @@ vimeo.com +boom_lol
 
 *.atlassian.net +boom_lol
 *.alt-paas.net +boom_lol
-*.pndsn.com +boom_lol
 
 *.jetbrains.com +boom_lol
 
@@ -31,5 +31,6 @@ vimeo.com +boom_lol
 
 *.jsfiddle.net +boom_lol
 
+*.medium.com +boom_lol
 
 * +direct
