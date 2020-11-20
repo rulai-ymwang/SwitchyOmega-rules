@@ -34,3 +34,5 @@ vimeo.com +boom_lol
 *.medium.com +boom_lol
 
 * +direct
+
+*.travis-ci.org +boom_lol
